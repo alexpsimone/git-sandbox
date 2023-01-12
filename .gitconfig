@@ -1,0 +1,2 @@
+[filter]
+    clean = ./clean.sh
