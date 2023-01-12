@@ -1,2 +1,2 @@
-[filter]
-    clean = ./clean.sh
+[filter "hashing"]
+    smudge = ./clean.sh
