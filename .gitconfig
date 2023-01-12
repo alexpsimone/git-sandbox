@@ -1,2 +1,2 @@
 [filter "hashing"]
-    smudge = /c/workspace/attributes/clean.sh
+    smudge=/c/workspace/attributes/clean.sh
